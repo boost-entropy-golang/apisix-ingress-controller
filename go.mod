@@ -18,7 +18,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/xeipuuv/gojsonschema v1.2.0
 	go.uber.org/multierr v1.11.0
-	go.uber.org/zap v1.25.0
+	go.uber.org/zap v1.26.0
 	golang.org/x/net v0.14.0
 	gopkg.in/go-playground/pool.v3 v3.1.1
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
@@ -27,7 +27,7 @@ require (
 	k8s.io/apimachinery v0.28.2
 	k8s.io/client-go v0.28.2
 	k8s.io/code-generator v0.28.1
-	sigs.k8s.io/controller-runtime v0.16.1
+	sigs.k8s.io/controller-runtime v0.16.2
 	sigs.k8s.io/gateway-api v0.8.0
 	sigs.k8s.io/yaml v1.3.0
 )
