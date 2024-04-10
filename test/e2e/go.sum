@@ -8,8 +8,8 @@ github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY
 github.com/andybalholm/brotli v1.0.4 h1:V7DdXeJtZscaqfNuAdSRuRFzuiKlHSC/Zh3zl9qY3JY=
 github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
-github.com/api7/etcd-adapter v0.2.3 h1:nb2IDli/d9WlhtObhYUtJUXs+IfGMTcXRc5Fu9IBgtk=
-github.com/api7/etcd-adapter v0.2.3/go.mod h1:JoLtq4IxiIw6Z+k9eRGHL0CDyfRvnNXGI0skV0EsSE8=
+github.com/api7/etcd-adapter v0.2.4 h1:VWdDPUJPai5IdxV5dwwZF9e7Ilw7sBWwaEeFzPO2fV4=
+github.com/api7/etcd-adapter v0.2.4/go.mod h1:JoLtq4IxiIw6Z+k9eRGHL0CDyfRvnNXGI0skV0EsSE8=
 github.com/api7/gopkg v0.2.0 h1:+5vw6Rt9IeEpJoL2JMZFDwGDhH4aaeUJize21/3Qdzc=
 github.com/api7/gopkg v0.2.0/go.mod h1:LlplmjGCrkcS3nyCYpTwkdLkuNlYRYAnI8XH1qwsICw=
 github.com/api7/terratest v1.0.0 h1:Grg0xcvNpSRZa7QzjqfTPR3lfiHk13IdIBUrfUrDmw4=
@@ -253,8 +253,8 @@ github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+W
 github.com/onsi/ginkgo v1.12.1/go.mod h1:zj2OWP4+oCPe1qIXoGWkgMRwljMUYCdkwsT2108oapk=
 github.com/onsi/ginkgo v1.16.4 h1:29JGrr5oVBm5ulCWet69zQkzWipVXIol6ygQUe/EzNc=
 github.com/onsi/ginkgo v1.16.4/go.mod h1:dX+/inL/fNMqNlz0e9LfyB9TswhZpCVdJM/Z6Vvnwo0=
-github.com/onsi/ginkgo/v2 v2.16.0 h1:7q1w9frJDzninhXxjZd+Y/x54XNjG/UlRLIYPZafsPM=
-github.com/onsi/ginkgo/v2 v2.16.0/go.mod h1:llBI3WDLL9Z6taip6f33H76YcWtJv+7R3HigUjbIBOs=
+github.com/onsi/ginkgo/v2 v2.17.1 h1:V++EzdbhI4ZV4ev0UTIj0PzhzOcReJFyJaLjtSF55M8=
+github.com/onsi/ginkgo/v2 v2.17.1/go.mod h1:llBI3WDLL9Z6taip6f33H76YcWtJv+7R3HigUjbIBOs=
 github.com/onsi/gomega v1.7.1/go.mod h1:XdKZgCCFLUoM/7CFJVPcG8C1xQ1AJ0vpAezJrB7JYyY=
 github.com/onsi/gomega v1.10.1/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1ybHNo=
 github.com/onsi/gomega v1.30.0 h1:hvMK7xYz4D3HapigLTeGdId/NcfQx1VHMJc60ew99+8=

@@ -9,7 +9,7 @@ require (
 	github.com/gavv/httpexpect/v2 v2.16.0
 	github.com/gorilla/websocket v1.5.1
 	github.com/gruntwork-io/terratest v0.40.22
-	github.com/onsi/ginkgo/v2 v2.16.0
+	github.com/onsi/ginkgo/v2 v2.17.1
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/zap v1.27.0
 	k8s.io/api v0.29.2
@@ -21,7 +21,7 @@ require (
 	github.com/TylerBrock/colorjson v0.0.0-20200706003622-8a50f05110d2 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
-	github.com/api7/etcd-adapter v0.2.3 // indirect
+	github.com/api7/etcd-adapter v0.2.4 // indirect
 	github.com/api7/gopkg v0.2.0 // indirect
 	github.com/aws/aws-sdk-go v1.40.56 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
